@@ -109,7 +109,7 @@
                 "headers": [
                     {
                         "name": "authorization",
-                        "value": "f5e01f1e498c42c389636a719dac01ba"
+                        "value": "assembly-api-key"
                     }
                 ],
                 "contentType": "custom",
@@ -427,7 +427,7 @@
                 "headers": [
                     {
                         "name": "authorization",
-                        "value": "f5e01f1e498c42c389636a719dac01ba"
+                        "value": "assembly-api-key"
                     },
                     {
                         "name": "content-type",
@@ -759,7 +759,7 @@
                 "headers": [
                     {
                         "name": "authorization",
-                        "value": "f5e01f1e498c42c389636a719dac01ba"
+                        "value": "assembly-api-key"
                     }
                 ],
                 "shareCookies": false,
@@ -1090,7 +1090,7 @@
                 "headers": [
                     {
                         "name": "x-api-key",
-                        "value": "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"
+                        "value": "claude-api-key"
                     },
                     {
                         "name": "anthropic-version",
